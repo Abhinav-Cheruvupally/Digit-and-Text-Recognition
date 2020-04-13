@@ -12,4 +12,11 @@ Digits are recognised with pre trained model
 
 train.py is CNN bulit model
 
+#libraries required to run this program
 
+Tensorflow 2.1
+Keras upgraded
+OpenCV
+Numpy
+requests
+json
